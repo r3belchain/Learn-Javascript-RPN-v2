@@ -49,7 +49,7 @@ console.log(arr); // Output: [2, 3, 5, 8]
 //TODO hasil: 2, 3, 5, 8
 
 
-//TODO HASIL AKHIR: 2, 3, 5, 8
+//! HASIL AKHIR: 2, 3, 5, 8
         
     
 
